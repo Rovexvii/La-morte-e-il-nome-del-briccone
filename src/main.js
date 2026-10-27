@@ -10,4 +10,8 @@ const config = {
   debug_mode: true,
 };
 
-PP.game.create(config);
+function avvia() {
+  PP.game.create(config);
+}
+
+
